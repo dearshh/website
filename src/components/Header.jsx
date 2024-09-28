@@ -13,7 +13,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>Health & Wellness</h1>
+      <h1>Technology Assistant</h1>
       <nav>
         <ul>
           <li><a href="#home">Home</a></li>

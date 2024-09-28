@@ -5,25 +5,25 @@ const MainContent = () => {
   return (
     <main>
       <section id="home">
-        <h2>Welcome to Health & Wellness</h2>
-        <p>Your health is our priority. Discover tips and services to keep you healthy and happy.</p>
+        <h2>Welcome to Technology Assistant Website !</h2>
+        <p>Your problem is our priority. Lets solve your problem in here to get the answer.</p>
         <img src={healthImage}alt="health" />
       </section>
       <section id="about">
         <h2>About Us</h2>
-        <p>We are dedicated to providing the best health and wellness services to our community.</p>
+        <p>We are dedicated to providing the best assistant technology website for helping our community.</p>
       </section>
       <section id="services">
         <h2>Our Services</h2>
         <ul>
-          <li>Nutrition Counseling</li>
-          <li>Fitness Programs</li>
-          <li>Mental Health Support</li>
+          <li>Help solve your digital problem</li>
+          <li>Learn with the assistant</li>
+          <li>Your suggestion / question about the Assistant Technology Website.</li>
         </ul>
       </section>
       <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: info@healthwellness.com</p>
+        <p>Email: assistanttechonology23@gmail.com</p>
         <p>Phone: (123) 456-7890</p>
       </section>
     </main>
